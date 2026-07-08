@@ -14,7 +14,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-poon-64b7b5325/)
 [![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ewpoon007@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EthanPoon25)
 
@@ -101,7 +101,11 @@ I approach engineering with a **product mindset**: every pipeline, API, or model
 
 </div>
 
----
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,7,8&height=40&section=header" width="100%"/>
+
+</div>
 
 ## Featured Projects
 
@@ -290,10 +294,17 @@ Founded and led a non-profit delivering free production websites to small busine
 | Recognition | Details |
 |---|---|
 | 🥇 **USA Computing Olympiad — Gold** | Top 5% internationally |
-| 🚀 **NASA App Challenge — Winner** | 1st place out of 1,500 submissions |
+| 🚀 **NASA App Challenge — Winner** | 1st place nationally out of 1,500 submissions |
+| 🌕 **NASA App Challenge — Innovator Award (Artemis)** | Best app visualizing Artemis III South Pole landing regions with rover integration |
+| 🏛️ **Congressional App Challenge — 1st Place** | 1st nationally among 2,000+ competitors; presented in Washington, D.C. |
 | 💎 **Diamond Innovation Challenge — Finalist** | 10th place out of 900 submissions |
-| 🎓 **Rutgers Honors College** | B.S. Computer Engineering, GPA 3.80 |
-| 🏢 **Revvifi Consulting** | Founder & CEO — 650+ production sites shipped globally |
+| 📱 **FBLA National Mobile App Development — 3rd** | International; competed against 700 teams building a React Native app with AI algorithms |
+| 🧪 **"Skew the Script" ML Contest — National Winner** | 1 of 7 winners out of 9,500 entries; only winning team from NJ |
+| 📡 **IEEE Grant Recipient** | International grant awarded for an Arduino-based engineering project |
+| 🎖️ **Congressional Silver Medal** | 200+ verified volunteer hours across service and development initiatives |
+| 🇺🇸 **President's Volunteer Service Award — Gold (2x)** | Awarded in consecutive years for 100+ and 250+ service hours |
+| 🥤 **Coca-Cola Scholarship — Semifinalist** | Advanced in a highly selective national scholarship program |
+| ✍️ **National Poetry Publications** | Multiple national placements, including Congressional and NomadArtX recognitions |
 
 </div>
 
@@ -338,34 +349,47 @@ Founded and led a non-profit delivering free production websites to small busine
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=EthanPoon25&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EthanPoon25&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=7C3AED&currStreakLabel=C4B5FD" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=EthanPoon25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0B1E&title_color=C4B5FD&icon_color=A78BFA&text_color=E9E2FF&border_radius=14&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EthanPoon25&theme=tokyonight&hide_border=true&background=0D0B1E&stroke=A78BFA&ring=8B5CF6&fire=C4B5FD&currStreakLabel=E9E2FF&border_radius=14" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanPoon25&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=8" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanPoon25&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D0B1E&title_color=C4B5FD&text_color=E9E2FF&border_radius=14&langs_count=8" width="32%"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=EthanPoon25&theme=tokyonight&hide_border=true&bg_color=0D0B1E&title_color=C4B5FD&text_color=E9E2FF&border_radius=14&layout=compact" width="64%"/>
 
 </div>
 
----
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,7,8&height=40&section=header" width="100%"/>
+
+</div>
 
 ## GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=EthanPoon25&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=EthanPoon25&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=7" width="100%"/>
 
 </div>
 
----
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,7,8&height=40&section=header" width="100%"/>
+
+</div>
 
 ## Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EthanPoon25&theme=react-dark&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EthanPoon25&theme=tokyo-night&bg_color=0D0B1E&color=C4B5FD&line=A78BFA&point=E9E2FF&area=true&area_color=8B5CF6&hide_border=true&radius=14" width="100%"/>
 
 </div>
 
----
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,7,8&height=40&section=header" width="100%"/>
+
+</div>
 
 ## Contribution Snake
 
@@ -375,11 +399,52 @@ Founded and led a non-profit delivering free production websites to small busine
 
 </div>
 
-> *Generated via the [Platane/snk](https://github.com/Platane/snk) GitHub Action — add the workflow to your profile repo to activate.*
+> *Generated via the [Platane/snk](https://github.com/Platane/snk) GitHub Action — add the workflow below to your profile repo (`EthanPoon25/EthanPoon25`) to activate the animated snake.*
+
+<details>
+<summary><b>⚙️ Snake animation workflow (.github/workflows/snake.yml)</b></summary>
+
+```yaml
+name: generate animation
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: EthanPoon25
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
 
 ---
 
 ## Current Focus
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=550&lines=Currently+shipping+HarvestGuard+OS;Exploring+self-supervised+learning;Always+building%2C+always+iterating" alt="Typing SVG" />
+
+</div>
 
 ```yaml
 Learning:
@@ -388,7 +453,7 @@ Learning:
   - Systems programming in Go
 
 Building:
-  - PSEG Data Pipeline — fault-tolerant industrial IoT pipeline
+  - HarvestGuard OS — fault-tolerant industrial IoT pipeline
   - AI-driven diagnostic and geospatial ML tooling
 
 Exploring:
@@ -408,7 +473,7 @@ Open To:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-ewpoon007%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ewpoon007@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-poon-64b7b5325/)
 [![GitHub](https://img.shields.io/badge/GitHub-EthanPoon25-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EthanPoon25)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-5B21B6?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
