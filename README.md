@@ -357,7 +357,7 @@ Founded and led a non-profit delivering free production websites to small busine
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=EthanPoon25&theme=tokyonight&hide_border=true&background=0D0B1E&stroke=A78BFA&ring=8B5CF6&fire=C4B5FD&currStreakLabel=E9E2FF&border_radius=14" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanPoon25&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D0B1E&title_color=C4B5FD&text_color=E9E2FF&border_radius=14&langs_count=8" width="32%"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=EthanPoon25&theme=tokyonight&hide_border=true&bg_color=0D0B1E&title_color=C4B5FD&text_color=E9E2FF&border_radius=14&layout=compact" width="64%"/>
+<img src="https://github-profile-3d-contrib.vercel.app/profile-3d-contrib/?username=EthanPoon25&theme=github_dark" width="64%"/>
 </div>
 
 <div align="center">
