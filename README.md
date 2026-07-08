@@ -386,64 +386,25 @@ Founded and led a non-profit delivering free production websites to small busine
 </div>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,7,8&height=40&section=header" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,7,8&height=40&section=header" width="100%"/>
 </div>
 
 ## Contribution Snake
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/EthanPoon25/EthanPoon25/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EthanPoon25/EthanPoon25/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EthanPoon25/EthanPoon25/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/EthanPoon25/EthanPoon25/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
-
-> *Generated via the [Platane/snk](https://github.com/Platane/snk) GitHub Action — add the workflow below to your profile repo (`EthanPoon25/EthanPoon25`) to activate the animated snake.*
-
-<details>
-<summary><b>⚙️ Snake animation workflow (.github/workflows/snake.yml)</b></summary>
-
-```yaml
-name: generate animation
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: EthanPoon25
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 ---
 
 ## Current Focus
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=550&lines=Currently+shipping+HarvestGuard+OS;Exploring+self-supervised+learning;Always+building%2C+always+iterating" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=550&lines=Currently+shipping+HarvestGuard+OS;Exploring+self-supervised+learning;Always+building%2C+always+iterating" alt="Typing SVG" />
 </div>
 
 ```yaml
