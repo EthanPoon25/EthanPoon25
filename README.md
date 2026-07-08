@@ -336,7 +336,11 @@ Founded and led a non-profit delivering free production websites to small busine
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white)](#)
+[![LeetCode](https://img.shields.io/badge/LeetCode-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/EthanP2025/)
+
+<br/>
+
+<img src="https://leetcard.jacoblin.cool/EthanP2025?theme=dark&font=Fira%20Code&ext=heatmap" width="100%"/>
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](#)
 [![HackerRank](https://img.shields.io/badge/HackerRank-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B21B6?style=for-the-badge&logo=codechef&logoColor=white)](#)
@@ -354,7 +358,6 @@ Founded and led a non-profit delivering free production websites to small busine
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanPoon25&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D0B1E&title_color=C4B5FD&text_color=E9E2FF&border_radius=14&langs_count=8" width="32%"/>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=EthanPoon25&theme=tokyonight&hide_border=true&bg_color=0D0B1E&title_color=C4B5FD&text_color=E9E2FF&border_radius=14&layout=compact" width="64%"/>
-
 </div>
 
 <div align="center">
