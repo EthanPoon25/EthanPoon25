@@ -110,7 +110,7 @@ I approach engineering with a **product mindset**: every pipeline, API, or model
 ## Featured Projects
 
 <details>
-<summary><b>🌊 HarvestGuard OS — Fault-Tolerant IoT Sensor Pipeline</b></summary>
+<summary><b>🌊 AWMS (Autonomous Water Management System) — Fault-Tolerant IoT Sensor Pipeline</b></summary>
 <br/>
 
 Real-time, end-to-end IoT data pipeline for monitoring industrial water-quality sensors (turbidity, temperature, UV, ATP), designed with store-and-forward buffering to guarantee zero data loss across multi-hour network partitions.
@@ -409,7 +409,7 @@ Founded and led a non-profit delivering free production websites to small busine
 ## Current Focus
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=550&lines=Currently+shipping+HarvestGuard+OS;Exploring+self-supervised+learning;Always+building%2C+always+iterating" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=550&lines=Currently+shipping+AWMS+(Autonomous+Water+Management+System);Exploring+self-supervised+learning;Always+building%2C+always+iterating" alt="Typing SVG" />
 </div>
 
 ```yaml
@@ -419,7 +419,7 @@ Learning:
   - Systems programming in Go
 
 Building:
-  - HarvestGuard OS — fault-tolerant industrial IoT pipeline
+  - AWMS (Autonomous Water Management System) — fault-tolerant industrial IoT pipeline
   - AI-driven diagnostic and geospatial ML tooling
 
 Exploring:
