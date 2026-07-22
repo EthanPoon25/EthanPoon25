@@ -403,7 +403,7 @@ Founded and led a non-profit delivering free production websites to small busine
 ## Current Focus
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=550&lines=Currently+shipping+AWMS+(Autonomous+Water+Management+System);Exploring+self-supervised+learning;Always+building%2C+always+iterating" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=550&lines=Currently+shipping+AWMS;Exploring+self-supervised+learning;Always+building%2C+always+iterating" alt="Typing SVG" />
 </div>
 
 ```yaml
