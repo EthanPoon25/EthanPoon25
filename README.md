@@ -208,7 +208,7 @@ A applied machine learning systems project focused on building and iterating on 
 
 ## Experience
 
-### OT Systems Engineer Intern — PSE&G
+### OT Systems Engineer Intern — PSEG
 **May 2026 – Present | Newark, NJ**
 
 Architecting a fault-tolerant, 4-layer IoT platform for industrial hardware monitoring and control, built for zero data loss across multi-hour network partitions.
